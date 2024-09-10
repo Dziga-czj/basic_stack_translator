@@ -1,5 +1,5 @@
 # stack_reader tool by Jinjer
-# used for ctfs to read the stack, with for example string format bugs etc.
+# used for ctfs to translate the stack, with for example string format bugs etc.
 # can also be used as a hex translator
 # 
 # usage : 
