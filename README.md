@@ -3,7 +3,7 @@ A repository regrouping all my ctf tools I made.
 
 
 # Index 
-- [stack_reader.py](/README.md#L10)
+- [stack_reader.py](#stack_readerpy)
 
 
 
