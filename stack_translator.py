@@ -1,9 +1,9 @@
-# stack_reader tool by Jinjer
+# stack_translator tool by Jinjer
 # used for ctfs to translate the stack, with for example string format bugs etc.
 # can also be used as a hex translator
 # 
 # usage : 
-# $ python3 stack_reader.py [stack_string]
+# $ python3 stack_translator.py [options] [stack_string]
 # 
 # options :
 # -s : shuffle mode to get strings with possible shifts in the stack
@@ -22,7 +22,7 @@ def shuffle(txt) :
     return (txt[1:]+ begin)
 
 def exit_with_usage() :
-    print("usage : python3 stack_reader.py [options] [stack_string]")
+    print("usage : python3 stack_translator.py [options] [stack_string]")
     print("options :")
     print("-s : shuffle mode to get strings with possible shifts in the stack")
     print("-d [char] : delimiter used in the stack")
