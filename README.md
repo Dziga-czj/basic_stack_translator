@@ -1,16 +1,7 @@
-# jinjer_ctf_tools
-A repository regrouping all my ctf tools I made.
-
-
-# Index 
-- [stack_translator.py](#stack_translatorpy)
-
-
-
-## stack_translator.py
-stack_translator tool by Jinjer  
-used for ctfs to translate the stack, that you retrieve with for example string format bugs etc.  
-can also be used as a hex translator  
+# stack_translator.py
+`stack_translator` tool by Jinjer  
+Used for ctfs to translate the stack, that you retrieve with for example string format bugs etc.  
+Can also be used as a hex translator  
 
 #### usage : 
 ```
