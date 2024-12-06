@@ -1,5 +1,5 @@
 # stack_translator.py
-`stack_translator` tool by Jinjer  
+`stack_translator` tool by Dziga Czaja  
 Used for ctfs to translate the stack, that you retrieve with for example string format bugs etc.  
 Can also be used as a hex translator  
 
